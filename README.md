@@ -13,3 +13,8 @@ The one-click CouchDB package for Windows like the [Jan's](https://github.com/ja
 1. *Download and Unzip*
 2. *Double-Click on WinCouch.exe*
 
+# TODO
+
+ - Add the source to the repository
+ - Add application configuration file
+ 
